@@ -1,0 +1,40 @@
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\obj\Debug\Interop.StatConnControls.dll
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\obj\Debug\Interop.STATCONNECTORCLNTLib.dll
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\obj\Debug\Interop.StatConnectorCommonLib.dll
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\obj\Debug\Interop.STATCONNECTORSRVLib.dll
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\obj\Debug\Interop.StatConnTools.dll
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\obj\Debug\Lturkey.vbproj.ResolveComReference.cache
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\obj\Debug\Lturkey.vbproj.GenerateResource.Cache
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Codes\Live Broiler movement\Code\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Codes\Live Broiler movement\Code\WindowsApplication1\obj\Debug\Interop.StatConnControls.dll
+C:\Codes\Live Broiler movement\Code\WindowsApplication1\obj\Debug\Interop.STATCONNECTORCLNTLib.dll
+C:\Codes\Live Broiler movement\Code\WindowsApplication1\obj\Debug\Interop.StatConnectorCommonLib.dll
+C:\Codes\Live Broiler movement\Code\WindowsApplication1\obj\Debug\Interop.STATCONNECTORSRVLib.dll
+C:\Codes\Live Broiler movement\Code\WindowsApplication1\obj\Debug\Interop.StatConnTools.dll
+C:\Codes\Live Broiler movement\Code\WindowsApplication1\obj\Debug\Interop.StatToolsOutOfProcessServer6.dll
+C:\Codes\Live Broiler movement\Code\WindowsApplication1\obj\Debug\Lturkey.vbproj.ResolveComReference.cache
+C:\Codes\Live Broiler movement\Code\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Codes\Live Broiler movement\Code\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Codes\Live Broiler movement\Code\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Codes\Live turkey Movement\Code\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Codes\Live turkey Movement\Code\WindowsApplication1\obj\Debug\Interop.StatToolsOutOfProcessServer6.dll
+C:\Codes\Live turkey Movement\Code\Live Bird testing\bin\Debug\WindowsApplication1.exe.config
+C:\Codes\Live turkey Movement\Code\Live Bird testing\obj\Debug\Interop.StatConnControls.dll
+C:\Codes\Live turkey Movement\Code\Live Bird testing\obj\Debug\Interop.STATCONNECTORCLNTLib.dll
+C:\Codes\Live turkey Movement\Code\Live Bird testing\obj\Debug\Interop.StatConnectorCommonLib.dll
+C:\Codes\Live turkey Movement\Code\Live Bird testing\obj\Debug\Interop.STATCONNECTORSRVLib.dll
+C:\Codes\Live turkey Movement\Code\Live Bird testing\obj\Debug\Interop.StatConnTools.dll
+C:\Codes\Live turkey Movement\Code\Live Bird testing\obj\Debug\Interop.StatToolsOutOfProcessServer6.dll
+C:\Codes\Live turkey Movement\Code\Live Bird testing\obj\Debug\Lturkey.vbproj.ResolveComReference.cache
+C:\Codes\Live turkey Movement\Code\Live Bird testing\obj\Debug\WindowsApplication1.exe
+C:\Codes\Live turkey Movement\Code\Live Bird testing\obj\Debug\WindowsApplication1.xml
+C:\Codes\Live turkey Movement\Code\Live Bird testing\obj\Debug\WindowsApplication1.pdb

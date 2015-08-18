@@ -1,0 +1,2 @@
+C:\Users\Sasi\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Codes\Live Turkey Movement\Code\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config

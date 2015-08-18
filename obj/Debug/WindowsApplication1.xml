@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApplication1
+</name>
+</assembly>
+<members>
+<member name="M:WindowsApplication1.form1.createpensandcows(System.Object)">
+	<summary>
+ creates and initiallizes arrays that refer to prens and cows
+ 
+ </summary>
+	<param name="current_iter"></param>
+	<remarks></remarks>
+</member><member name="M:WindowsApplication1.hensurvsim.perform_one_flock_surveillance(System.Int64)">
+	<summary>
+ Model runs in terms of disease day. This method performs surveillance for one day. The actual movement day can be any disease day due to translation.
+ This translation factor is randomly selected with plausible values
+ </summary>
+	<param name="curr_iter"></param>
+	<remarks></remarks>
+</member><member name="T:WindowsApplication1.hensurvsim">
+	<summary>
+ This model can take n hns infected via semen or a single infected hen.
+ if infection is via semen, then the dynamics of that spread need to be entered in mannually in AI putput file based on run of tom surveillance.
+ 27 of survpar sheet of AI output should have info on number of infectious toms at movement
+ 33 and 34 should have info on detected by movement day+2 and 3
+ if a tom flock is infected then movement of hatching eggs from associated henflocks are restricted.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:WindowsApplication1.survsim.perform_one_flock_surveillance(System.Int64)">
+	<summary>
+ Model runs in terms of disease day. This method performs surveillance for one day. The actual movement day can be any disease day due to translation.
+ This translation factor is randomly selected with plausible values
+ </summary>
+	<param name="curr_iter"></param>
+	<remarks></remarks>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:WindowsApplication1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
