@@ -48,7 +48,7 @@
     Dim eggratehigher As Single = 0.7
     Dim starting_egg_rate_array() As Double
     Dim temp_egg_rate_iter As Double
-    Dim dropinegg As Double = 0.75
+    Dim dropinegg As Double = 0.75000001
     Public iscontactratestochastic As Boolean = True
     Public contactratearray() As Double
     Public stochcontactratehigher As Single = 12
